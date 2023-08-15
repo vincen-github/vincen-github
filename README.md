@@ -12,5 +12,5 @@
 </a>
 
 <a href="https://github.com/vincen-github/github-readme-stats">
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincen-github&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=rose" /> </div>
 </a>
