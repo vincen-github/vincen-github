@@ -4,7 +4,7 @@
 - 🌱 I’m currently fous on Deep Representation Learning, Reinforcement Learning, especially their theory and explaination.
 - 💬 Ask me about the trouble encountered when you read my code.
 - 📫 How to reach me: vincen.nwu@gmail.com or vincen@whu.edu.cn.
-- 😄 Pronouns: Encounters arise from destiny, cease when the connection ends; everyone exerts their abilities, and holds what they need.
+- 😄 Pronouns: Fate brings people together, and when it ends, they part ways. Each does their best and takes what they need.
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/vincen-github/github-readme-stats">
