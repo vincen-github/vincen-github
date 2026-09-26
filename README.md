@@ -28,9 +28,21 @@ My research brings generative learning tools into self-supervised representation
 
 ## Further Work
 
-- **Adv-SSL** — [Adversarial Self-Supervised Representation Learning with Theoretical Guarantees](https://arxiv.org/abs/2408.08533), NeurIPS 2025. [Code](https://github.com/vincen-github/ASSRL)
-- **Language model theory** — [Beyond the Prompt in Large Language Models: Comprehension, In-Context Learning, and Chain-of-Thought](https://arxiv.org/abs/2603.10000).
-- **mlimpl** — [Implementations of machine learning algorithms](https://github.com/vincen-github/mlimpl), for studying and adapting the underlying methods.
+### Adv-SSL
+
+We introduce a **minimax approach to debias existing self-supervised learning methods**. This adversarial formulation improves downstream performance while helping establish theoretical guarantees for the learned representations.
+
+[Adv-SSL: Adversarial Self-Supervised Representation Learning with Theoretical Guarantees](https://arxiv.org/abs/2408.08533), NeurIPS 2025. [Code](https://github.com/vincen-github/ASSRL)
+
+### Language Model Theory
+
+We develop a theoretical framework to model and understand **zero-shot prediction, in-context learning, and chain-of-thought reasoning**. We seek to explain how demonstrations and intermediate reasoning steps can improve performance along the progression from zero-shot prediction to in-context learning and chain-of-thought.
+
+[Beyond the Prompt in Large Language Models: Comprehension, In-Context Learning, and Chain-of-Thought](https://arxiv.org/abs/2603.10000)
+
+### mlimpl
+
+[Implementations of machine learning algorithms](https://github.com/vincen-github/mlimpl), for studying and adapting the underlying methods.
 
 Authors are listed alphabetically by surname in all publications.
 
