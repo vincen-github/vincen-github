@@ -44,6 +44,8 @@ We develop a theoretical framework to model and understand **zero-shot predictio
 
 [Implementations of machine learning algorithms](https://github.com/vincen-github/mlimpl), for studying and adapting the underlying methods.
 
+[639 stars](https://github.com/vincen-github/mlimpl/stargazers) · [133 forks](https://github.com/vincen-github/mlimpl/forks) (24 October 2026)
+
 Authors are listed alphabetically by surname in all publications.
 
 For publications, talks, and academic service, visit [my personal homepage](https://wensen-ma.github.io/).
